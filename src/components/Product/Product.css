@@ -46,3 +46,7 @@
 .btn-cart:hover{
     background-color: orange;
 }
+
+.addToCartText{
+    margin-right: 10px;
+}
